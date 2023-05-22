@@ -6,8 +6,8 @@ This program is designed to calculate the grade average of a student in three le
 
   1. Clone or download the repository.
   2. Open the terminal and navigate to the directory where the program is saved.
-  3. Compile the program using gcc grade_calculator.c -o grade_calculator.
-  4. Run the program using ./grade_calculator.
+  3. Compile the program using gcc grade_calculator.c -o grade_calculator
+  4. Run the program using ./grade_calculator
   5. Follow the prompts and enter the necessary information to calculate the grade average.
 
 ## Input Requirements ##
